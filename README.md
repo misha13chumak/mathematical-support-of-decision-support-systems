@@ -1,1 +1,2 @@
-# mathematical-support-of-decision-support-systems
+### mathematical-support-of-decision-support-systems
+##  матема
